@@ -57,12 +57,14 @@ Moje wyniki z testu Gallupa podkreślają zdolność do uczenia się i dążenie
     <section id="przypadki_testowe">
         <h2>Przykłady przypadków testowych</h2>
         <!-- Tutaj możesz umieścić przykłady przypadków testowych -->
-        <p>Wkrótce pojawią się przykłady przypadków testowych.</p>
+        <p>
+<a href="https://github.com/AllaBobyryeva/Przypadki-testowe-strony-Allegro/blob/main/Przypadki%20testowe%20dla%20strony%20Allegro" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; border-radius: 5px; text-decoration: none;">Przykłady przypadków testowych</a></p>
     </section>
     <section id="zgloszenia_bledow">
         <h2>Przykłady zgłaszania błędów</h2>
         <!-- Tutaj możesz umieścić przykłady zgłaszania błędów -->
-        <p>Wkrótce pojawią się przykłady zgłaszania błędów.</p>
+        <p><a href="https://github.com/AllaBobyryeva/Przypadki-testowe-strony-Allegro/blob/main/Przyk%C5%82ady%20zg%C5%82aszania%20b%C5%82%C4%99d%C3%B3w" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; border-radius: 5px; text-decoration: none;">Przykłady zgłaszania błędów</a>
+</p>
     </section>
     <!-- Dodaj więcej sekcji, jeśli potrzebujesz -->
     <footer>
